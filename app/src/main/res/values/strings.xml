@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizApp-1</string>
+    <string name="hehehansdeli">hehehansdeli</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_add_content">AddContent</string>
+</resources>
